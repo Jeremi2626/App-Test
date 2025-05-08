@@ -1,0 +1,11 @@
+/* Ensure Tailwind CSS is properly configured and included */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #4fd9f1;
+  width: 100vw;
+  overflow-x: hidden;
+  font-family: "montserrat", sans-serif;
+}
